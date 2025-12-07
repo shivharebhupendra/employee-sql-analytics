@@ -163,3 +163,15 @@ This SQL project proves your capability in:
 - ✔ Creating structured business insights from raw queries
 - ✔ Building production-level stored procedures & views
 - ✔ Data analysis using aggregate + window functions
+
+---
+
+## 👨‍💻 Author
+
+Bhupendra Shivhare
+
+Aspiring Data Scientist | Deep Learning Enthusiast
+
+LinkedIn: www.linkedin.com/in/bhupendra-shivhare-a8a02a25b
+
+📧 Email: shivharebhupendra@gmail.com
